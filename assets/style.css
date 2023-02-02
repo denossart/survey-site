@@ -7,6 +7,17 @@
 }
 
 
+/* ********** FONTS ********** */
+
+body {
+    font-family: sans-serif;
+}
+
+nav li {
+    text-transform: uppercase;
+}
+
+
 /* ********** COLOR SCHEME ********** */
 
 nav {
@@ -53,4 +64,14 @@ nav ul {
     text-align: center;
 }
 
+header {
+    text-align: center;
+}
+
+
+/* ********** DEBUGGING ********** */
+
+* {
+    outline: 1px solid red;
+}
 
