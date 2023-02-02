@@ -9,23 +9,23 @@
 
 /* ********** COLOR SCHEME ********** */
 
-.nav {
+nav {
     background-color: #466995;
 }
 
-.nav li {
+nav li {
     color: #fff;
 }
 
-.header {
+header {
     background-color: #dbe9ee;
 }
 
-.header h1 {
+header h1 {
     color: #466995;
 }
 
-.header p {
+header p {
     color: #000;
 }
 
