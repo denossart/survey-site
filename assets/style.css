@@ -38,4 +38,19 @@ footer h3 {
 }
 
 
+/* ********** LAYOUT ********** */
+
+nav li {
+    display: inline-block;
+    margin: 25px;
+}
+
+nav li:last-child {
+    margin-right: 0;
+}
+
+nav ul {
+    text-align: center;
+}
+
 
