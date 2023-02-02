@@ -1,6 +1,32 @@
+
 /* ********** RESETS ********** */
 
 * {
     margin: 0;
     padding: 0;
 }
+
+
+/* ********** COLOR SCHEME ********** */
+
+.nav {
+    background-color: #466995;
+}
+
+.nav li {
+    color: #fff;
+}
+
+.header {
+    background-color: #dbe9ee;
+}
+
+.header h1 {
+    color: #466995;
+}
+
+.header p {
+    color: #000;
+}
+
+
