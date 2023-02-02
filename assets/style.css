@@ -17,6 +17,15 @@ nav li {
     text-transform: uppercase;
 }
 
+header h1 {
+    text-transform: uppercase;
+}
+
+header p {
+    font-size: 18px;
+    letter-spacing: 1.25px;
+}
+
 
 /* ********** COLOR SCHEME ********** */
 
@@ -66,6 +75,14 @@ nav ul {
 
 header {
     text-align: center;
+}
+
+header div {
+    padding: 60px 0;
+}
+
+header h1 {
+    margin-bottom: 15px;
 }
 
 
