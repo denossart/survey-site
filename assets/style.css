@@ -84,20 +84,29 @@ header {
     height: 250px;
 }
 
+footer {
+    height: 100px;
+}
+
+
 /* ============ Positions */
 
+nav {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
 .page-container {
+    position: relative;
     top: 100px;
 }
 
 
-/* ============ Navigation */
+/* ============ Widths */
 
 nav {
     width: 100%;
-    position: fixed;
-    top: 0;
-    z-index: 1;
 }
 
 nav li {
@@ -113,11 +122,6 @@ nav ul {
     text-align: center;
 }
 
-/* ============ Page Container */
-
-.page-container {
-    position: relative;
-}
 
 /* ============ Welcome Header */
 
