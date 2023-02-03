@@ -37,10 +37,13 @@ nav li {
     color: #fff;
 }
 
-nav li {
+nav li a {
     color: #fff;
 }
 
+nav li a:hover {
+    color: #dbe9ee;
+}
 
 header {
     background-color: #dbe9ee;
