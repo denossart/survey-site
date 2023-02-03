@@ -163,5 +163,9 @@ nav li a {
         height: 100px;
     }    
 
+    .page-container {
+        top: 100px;
+    }
+
 }
 
