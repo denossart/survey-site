@@ -101,7 +101,6 @@ nav ul {
 /* ============ Welcome Header */
 
 header {
-/*    height: 200px;*/
     text-align: center;
 }
 /*
@@ -166,6 +165,10 @@ nav li a {
     .page-container {
         top: 100px;
     }
+
+    header {
+        height: 200px;
+    }    
 
 }
 
