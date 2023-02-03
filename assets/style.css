@@ -116,7 +116,6 @@ header h1 {
 /* ============ Question Section */
 
 .question {
-/*    height: 250px;*/
     text-align: center;
 }
 
@@ -170,5 +169,9 @@ nav li a {
         height: 200px;
     }    
 
+    .question {
+        height: 250px;
+    }
+        
 }
 
