@@ -96,7 +96,6 @@ nav ul {
 
 .page-container {
     position: relative;
-/*    top: 100px;*/
 }
 
 /* ============ Welcome Header */
@@ -162,7 +161,7 @@ nav li a {
 
     nav {
         height: 100px;
-    }
+    }    
 
 }
 
