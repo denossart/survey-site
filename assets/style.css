@@ -91,7 +91,6 @@ footer {
     height: 100px;
 }
 
-
 /* ============ Positions */
 
 nav {
@@ -104,7 +103,6 @@ nav {
     position: relative;
     top: 100px;
 }
-
 
 /* ============ Widths */
 
@@ -135,6 +133,9 @@ header {
     text-align: center;
 }
 
+footer {
+    text-align: center;
+}
 
 
 /* ========== LINKS */
