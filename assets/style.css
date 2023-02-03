@@ -8,6 +8,7 @@
 }
 
 
+
 /* ========== FONTS */
 
 body {
@@ -27,6 +28,7 @@ header p {
     letter-spacing: ...px;
 }
 */
+
 
 
 /* ========== COLOR SCHEME */
@@ -66,6 +68,7 @@ footer {
 footer h3 {
     color: #466995;
 }
+
 
 
 /* ========== LAYOUT */
@@ -109,44 +112,29 @@ nav {
     width: 100%;
 }
 
+
+/* ============ Displays */
+
 nav li {
     display: inline-block;
 /*    margin: 40px 25px;*/
 }
 
-nav li:last-child {
-    margin-right: 0;
-}
+
+/* ============ Alignments */
 
 nav ul {
     text-align: center;
 }
 
-
-/* ============ Welcome Header */
-
 header {
     text-align: center;
 }
-/*
-header div {
-    padding: 60px 0;
-}
-
-header h1 {
-    margin-bottom: 15px;
-}
-*/
-
-/* ============ Question Section */
 
 .question {
     text-align: center;
 }
 
-.question h2 {
-/*    padding: 15px 0 30px 0;*/
-}
 
 
 /* ========== LINKS */
@@ -154,6 +142,7 @@ header h1 {
 nav li a {
     text-decoration: none;
 }
+
 
 
 /* ========== DEBUGGING */
