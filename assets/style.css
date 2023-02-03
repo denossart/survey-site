@@ -1,5 +1,5 @@
 
-/* ********** RESETS ********** */
+/* ========== RESETS */
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 
-/* ********** FONTS ********** */
+/* ========== FONTS */
 
 body {
     font-family: sans-serif;
@@ -27,7 +27,7 @@ header p {
 }
 
 
-/* ********** COLOR SCHEME ********** */
+/* ========== COLOR SCHEME */
 
 nav {
     background-color: #466995;
@@ -66,7 +66,9 @@ footer h3 {
 }
 
 
-/* ********** LAYOUT ********** */
+/* ========== LAYOUT */
+
+/* ============ Navigation */
 
 nav {
     width: 100%;
@@ -89,6 +91,8 @@ nav ul {
     text-align: center;
 }
 
+/* ============ Welcome Section */
+
 header {
     text-align: center;
     position: relative;
@@ -103,14 +107,21 @@ header h1 {
     margin-bottom: 15px;
 }
 
+/* ============ Question Section */
+
 .question {
     height: 250px;
 }
 
 
+/* ========== LINKS */
+
+nav li a {
+    text-decoration: none;
+}
 
 
-/* ********** DEBUGGING ********** */
+/* ========== DEBUGGING */
 /*
 * {
     outline: 1px solid red;
