@@ -70,6 +70,27 @@ footer h3 {
 
 /* ========== LAYOUT */
 
+/* ============ Heights */
+
+nav {
+    height: 100px;
+}    
+
+header {
+    height: 200px;
+}    
+
+.question {
+    height: 250px;
+}
+
+/* ============ Positions */
+
+.page-container {
+    top: 100px;
+}
+
+
 /* ============ Navigation */
 
 nav {
@@ -157,21 +178,5 @@ nav li a {
 
 @media (min-width: 1008px) {
 
-    nav {
-        height: 100px;
-    }    
-
-    .page-container {
-        top: 100px;
-    }
-
-    header {
-        height: 200px;
-    }    
-
-    .question {
-        height: 250px;
-    }
-        
 }
 
