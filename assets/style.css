@@ -113,6 +113,9 @@ header h1 {
 
 .question {
     height: 250px;
+    text-align: center;
+    position: relative;
+    top: 300px;
 }
 
 
