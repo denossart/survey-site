@@ -37,6 +37,11 @@ nav li {
     color: #fff;
 }
 
+nav li {
+    color: #fff;
+}
+
+
 header {
     background-color: #dbe9ee;
 }
@@ -98,6 +103,8 @@ header h1 {
 .question {
     height: 250px;
 }
+
+
 
 
 /* ********** DEBUGGING ********** */
