@@ -77,7 +77,6 @@ nav {
     position: fixed;
     top: 0;
     z-index: 1;
-/*    height: 100px;*/
 }
 
 nav li {
@@ -141,4 +140,29 @@ nav li a {
     outline: 1px solid red;
 }
 */
+
+
+/* ========== VIEWPORTS */
+
+/* ============ Small */
+
+@media (max-width: 640px) {
+
+}
+
+/* ============ Medium */
+
+@media (min-width: 641px) {
+
+}
+
+/* ============ Large */
+
+@media (min-width: 1008px) {
+
+    nav {
+        height: 100px;
+    }
+
+}
 
