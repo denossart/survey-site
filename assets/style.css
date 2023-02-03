@@ -102,7 +102,6 @@ nav {
     width: 100%;
 }
 
-
 /* ============ Displays */
 
 nav li {
@@ -110,24 +109,41 @@ nav li {
 /*    margin: 40px 25px;*/
 }
 
-
 /* ============ Alignments */
 
 nav ul {
     text-align: center;
 }
 
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
 }
 
 .question {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     text-align: center;
 }
 
 footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
 }
+
+/* ============ Flex */
 
 
 
@@ -143,7 +159,7 @@ nav li a {
 
 /* ============ Small Screens */
 
-@media screen (max-width: 640px) {
+@media (max-width: 640px) {
     
 }
 
