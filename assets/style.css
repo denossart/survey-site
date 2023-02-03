@@ -91,13 +91,19 @@ nav ul {
     text-align: center;
 }
 
+/* ============ Page Container */
+
+.page-container {
+    position: relative;
+    top: 100px;
+}
+
+
 /* ============ Welcome Header */
 
 header {
     height: 200px;
     text-align: center;
-    position: relative;
-    top: 100px;
 }
 /*
 header div {
@@ -114,8 +120,6 @@ header h1 {
 .question {
     height: 250px;
     text-align: center;
-    position: relative;
-    top: 300px;
 }
 
 
