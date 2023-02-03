@@ -15,19 +15,11 @@ body {
     font-family: sans-serif;
 }
 
-nav li {
+nav li,
+header h1,
+footer h3 {
     text-transform: uppercase;
 }
-
-header h1 {
-    text-transform: uppercase;
-}
-/*
-header p {
-    font-size: ...;
-    letter-spacing: ...px;
-}
-*/
 
 
 
@@ -138,11 +130,23 @@ footer {
 }
 
 
+
 /* ========== LINKS */
 
 nav li a {
     text-decoration: none;
 }
+
+
+
+/* ========== VIEWPORTS */
+
+/* ============ Small Screens */
+
+@media screen (max-width: 640px) {
+    
+}
+
 
 
 
