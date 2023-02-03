@@ -98,14 +98,13 @@ nav ul {
     top: 100px;
 }
 
-
 /* ============ Welcome Header */
 
 header {
     height: 200px;
     text-align: center;
 }
-/*
+
 header div {
     padding: 60px 0;
 }
@@ -113,7 +112,6 @@ header div {
 header h1 {
     margin-bottom: 15px;
 }
-*/
 
 /* ============ Question Section */
 
